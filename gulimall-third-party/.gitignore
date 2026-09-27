@@ -29,3 +29,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Excluded from the public backup: contains credential examples.
+/src/test/
+/src/main/java/com/xunqi/gulimall/thirdparty/controller/OssController.java
